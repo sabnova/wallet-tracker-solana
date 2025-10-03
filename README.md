@@ -28,4 +28,4 @@ This is a Telegram bot that can track any Solana wallet in real time, providing 
 
 
 ## Contact
-  Telegram | [Dogewhiz](https://t.me/dogewhiz)                             
+  Telegram | [Sabonis](https://t.me/sabonis_24)                             
